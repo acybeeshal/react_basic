@@ -6,8 +6,8 @@ const Home = () => {
   return (
     <div>
       <h1>Home page  </h1>
-      <button style >Register </button>
-      <button style >Login</button>
+      <button  >Register </button>
+      <button  >Login</button>
 
     </div>
   )
